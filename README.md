@@ -28,7 +28,7 @@ I work end-to-end — **architecture, backend, integrations, automation, and con
 
 ---
 
-## 💼 Experience (Most Recent)
+## 💼 Experience
 
 ### **Test Automation Researcher — Ford Motor Company**
 **Jun 2025 – Present**
