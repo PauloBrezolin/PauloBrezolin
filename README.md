@@ -119,15 +119,6 @@ I take ownership from **problem definition → production**, working across:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ## 🚀 Key Achievements
 
 ```
@@ -154,8 +145,4 @@ I take ownership from **problem definition → production**, working across:
 
 <p align="center">
   <i>💡 I learn fast, deliver with quality, and take ownership from problem definition to production.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
