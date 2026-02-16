@@ -1,146 +1,205 @@
-<h1 align="center">Hi, I'm Paulo Brezolin 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Engineer | Full Stack Systems | Architecture & Integrations (REST APIs) | Automation | Applied AI</strong><br>
-  Remote-ready 🌍 | Ownership-driven ⚙️ | Clean delivery & measurable impact 💡
-</p>
+# 👋 Paulo Brezolin
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulobrezolin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Paulo%20Brezolin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Based%20in-Brazil-009C3B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20International-6A5ACD?style=for-the-badge"/>
-</p>
+### Software Engineer | Systems Architecture | Applied AI
 
----
+<br>
 
-## 👨‍💻 About
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulobrezolin/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo.brezolin64@gmail.com)
+[![Location](https://img.shields.io/badge/Salvador,_Brazil-00875F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com)
 
-Software Engineer with **3+ years of experience** building and maintaining production systems. I started early, landed my first role at **17**, completed my degree at **19**, and moved into a **global, English-speaking environment**. I learn fast, deliver with quality, and take ownership from problem definition to production.
+**Building reliable systems and integrations that turn complex operations into measurable results**
 
-I work end-to-end across **systems architecture**, **backend + frontend delivery**, **database design**, **integrations**, **automation**, and **reporting**. My experience spans **education platforms** (120+ schools, 30,000+ students), **logistics & foreign trade systems** with fiscal/government integrations, and **automotive R&D tooling** for test standardization and internal automation.
-
-Open to remote and international opportunities in **Full Stack**, **Backend**, **Automation**, **Applied AI**, and related roles.
+</div>
 
 ---
 
-## 💼 Experience
+## 🚀 About Me
 
-### Ford Motor Company — Test Automation Engineer / Researcher
-**Jun 2025 – Present**
-- Built an end-to-end standardization and automation workflow using **BDD and Gherkin** to structure how **feature requirements and scenarios** are written for testing, improving consistency and quality across teams.
-- Automated scenario refinement and validation, reducing manual review and correction time by up to **80%**, generating test-ready outputs with quality indicators and reporting.
-- Developed backend services integrating **LLM APIs** (OpenAI, Anthropic, Google Gemini) and applied optimization techniques (structured outputs, chunking, token optimization) to improve precision, reliability, and cost efficiency.
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Paulo Brezolin"
+        self.role = "Software Engineer"
+        self.location = "Salvador, Brazil"
+        self.languages = ["Portuguese (Native)", "English (C1)", "Spanish (A2)", "Italian (A2)"]
+        self.working_on = "AI-powered test automation @ Ford Motor Company"
+        self.learning = "AWS Cloud Architecture"
+        
+    def career_highlights(self):
+        return {
+            "first_job_at": 17,
+            "graduated_at": 19,
+            "years_experience": "3+",
+            "impact": {
+                "drivers_using_my_app": "100+",
+                "students_impacted": "30,000+",
+                "manual_work_reduced": "70%",
+                "test_review_time_reduced": "80%"
+            }
+        }
+```
 
-**Stack/Tools:** Python, MATLAB, Simulink, Git, BDD (Gherkin), LLM APIs
-
----
-
-### LogTrade (Foreign Trade & Integrated Logistics) — Software Engineer
-**Nov 2023 – Present**
-- Led the architecture, development, and maintenance of a transportation ecosystem integrated with **SEFAZ**, designed to handle **multi-million value flows**, automating fiscal workflows (CT-e, MDF-e, CIOT, CCe) and collection orders.
-- Designed and maintained **REST API integrations** connecting internal modules and external services, including fiscal and government workflows.
-- Built a real-time mobile application adopted by **100+ drivers**, streamlining communication and document flow.
-- Automated operational processes, reducing manual rework by about **70%**, and created dashboards for reporting and decision support.
-- Delivered and maintained modules across **Import, Export, DUIMP, ISO 9001**, Drivers, Vehicles, Suppliers, Finance, Helpdesk, and other internal workflows.
-
-**Stack/Tools:** PHP, Python, JavaScript, Node.js, REST APIs, Firebird, React Native, Power BI
-
----
-
-### JCL Tecnologia (Education Platform) — Full Stack Developer (Internship)
-**May 2023 – Nov 2023**
-- Contributed to the development and maintenance of an education platform serving **120+ schools** and **30,000+ students**, focused on reliability and reporting.
-- Maintained and improved legacy modules, handling issue resolution and continuous improvements across backend, database, and UI flows.
-- Built dynamic reports used by schools and stakeholders to improve visibility and decision support.
-
-**Stack/Tools:** PHP, Laravel, PostgreSQL, JavaScript, jQuery, HTML, CSS, Bootstrap, Git
+I started early, learn fast, and take ownership from problem to production. Currently working with **global teams** on **AI-driven automation** while building **enterprise-scale logistics systems** that handle multi-million value flows.
 
 ---
 
-### Freelance — Full Stack Developer
-**Jan 2023 – Present**
-- Delivered custom systems, dashboards, and automation solutions for clients across multiple sectors (real estate, food, education, marketing, e-commerce).
-- Built integrations and reporting with focus on maintainability, speed to delivery, and business impact.
+## 💼 What I Do
 
-**Stack/Tools:** PHP/Laravel, Python, JavaScript, HTML, CSS, MySQL, WordPress, AWS (fundamentals), Power BI
-
----
-
-## 🧠 Engineering Focus
-- Systems Architecture and end-to-end delivery
-- Integrations (enterprise and fiscal/government workflows)
-- Automation and standardization to reduce rework and operational risk
-- Applied AI to improve internal decision and analysis workflows
-- Reliable systems, reporting, and continuous improvement
+🏗️ **Systems Architecture** — End-to-end design and delivery  
+🔗 **API Integrations** — REST APIs, fiscal/government workflows  
+⚙️ **Automation** — Reducing manual work and operational risk  
+🤖 **Applied AI** — LLM APIs, prompt engineering, intelligent workflows  
+📊 **Reporting & Analytics** — Power BI, dashboards, data-driven decisions  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Core Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
-![React%20Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-111111?style=for-the-badge)
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebird](https://img.shields.io/badge/Firebird-F05032?style=flat-square&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-### Cloud, Tooling & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![REST%20API](https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-0B5CAD?style=for-the-badge)
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white)
 
----
-
-## 🚀 Highlights
-- Transportation and fiscal systems integrated with **SEFAZ**, supporting **multi-million value flows**
-- Real-time mobile logistics app adopted by **100+ drivers**
-- Reduced manual rework by about **70%** through automation
-- Education platform impacting **30,000+ students**
-- Built **AI-enabled** standardization and automation for testing workflows
+### Specializations
+![BDD](https://img.shields.io/badge/BDD/Gherkin-4CAF50?style=flat-square&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-FF6F00?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9C27B0?style=flat-square&logoColor=white)
 
 ---
 
-## 📚 Education & Certifications
+## 🎯 Featured Projects
 
-### Education
-**UniRuy Wyden** — Bachelor of Technology (BTech), Systems Analysis and Development (2022–2024)  
-Highlights: **GPA 9/10** | Coursework: Software Engineering, Data Structures, Databases, Web Development, Cloud Fundamentals, Networking, Scrum, UML
+### 🚗 **Ford Motor Company** — AI-Powered Test Automation
+Built an end-to-end **BDD/Gherkin standardization tool** integrating **LLM APIs** (OpenAI, Anthropic, Google Gemini) to automate scenario refinement and validation.  
+**Impact:** 80% reduction in manual review time  
+**Tech:** Python, MATLAB/Simulink, GitHub, LLM APIs
 
-### Certifications
-- PHP Experience (2023)
-- Python Developer (2023)
-- Cyber Security Essentials (2025)
-- AWS Certified Cloud Practitioner (In Progress, 2026)
+### 🚚 **LogTrade** — Multi-Million Value Transportation System
+Led architecture and development of a **SEFAZ-integrated ecosystem** automating fiscal workflows (CT-e, MDF-e, CIOT, CCe).  
+**Impact:** 100+ drivers using real-time mobile app, 70% reduction in manual rework  
+**Tech:** PHP, Python, JavaScript, Node.js, React Native, Firebird, REST APIs, Power BI
 
----
-
-## 🌎 Languages
-Portuguese (Native) | English (C1) | Spanish (A2) | Italian (A2)
-
----
-
-## 🤝 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/paulobrezolin/
-- Email: paulo.brezolin64@gmail.com
-- Location: Brazil (Remote) — Open to international opportunities
+### 📚 **JCL Tecnologia** — Education Platform
+Maintained platform serving **120+ schools** and **30,000+ students** with focus on reliability and reporting.  
+**Tech:** PHP, Laravel, PostgreSQL, JavaScript, jQuery, Bootstrap
 
 ---
 
-> I build reliable systems and integrations that turn complex operations into measurable results.
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulobrezolin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulobrezolin&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulobrezolin&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+```yaml
+Career Milestones:
+  - First programming job at 17 years old
+  - Graduated at 19 with 9/10 GPA
+  - Working with global teams in English
+  - Built app adopted by 100+ drivers from scratch
+  - Reduced operational costs by 70% through automation
+  - Impacted 30,000+ students through education platform
+  - Automated testing workflows reducing review time by 80%
+```
+
+---
+
+## 📜 Certifications
+
+✅ **PHP Experience** (2023)  
+✅ **Python Developer** (2023)  
+✅ **Cyber Security Essentials** (2025)  
+🔄 **AWS Certified Cloud Practitioner** (In Progress, 2026)
+
+---
+
+## 🎓 Education
+
+**UniRuy Wyden** — Bachelor of Technology, Systems Analysis and Development  
+📅 Jul 2022 – Nov 2024 | 📊 GPA: 9/10
+
+**Highlights:**
+- Software Engineering, Data Structures, Databases
+- Web Development, Cloud Fundamentals, Networking
+- Scrum, UML, Operating Systems
+
+**Volunteer:**  
+IT Instructor @ Digital Inclusion Center (NID) — Teaching programming fundamentals and career readiness to low-income youth
+
+---
+
+## 💡 Current Focus
+
+- 🔭 Building **AI-powered automation tools** at Ford Motor Company
+- 🌱 Learning **AWS Cloud Architecture** for certification
+- 🚀 Developing **enterprise logistics systems** at LogTrade
+- 💼 Open to **remote and international opportunities**
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing:
+- 🤝 **Collaboration** on interesting projects
+- 💼 **Job opportunities** (Remote/International)
+- 🧠 **Tech discussions** about AI, automation, systems architecture
+- 📚 **Mentoring** in software development
+
+**Reach me at:**  
+📧 paulo.brezolin64@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/paulobrezolin/)  
+📍 Salvador, Brazil (Remote)
+
+---
+
+<div align="center">
+
+### ⚡ Fun Facts
+
+🎯 Started coding at 17, graduated at 19, now building AI-powered systems  
+🌍 Work with global teams in English daily  
+🚀 Passionate about automation, clean code, and measurable impact  
+📖 Speak 4 languages: Portuguese, English, Spanish, Italian
+
+---
+
+**"Building reliable systems and integrations that turn complex operations into measurable results."**
+
+![Profile Views](https://komarev.com/ghpvc/?username=paulobrezolin&color=blueviolet&style=flat-square)
+
+</div>
